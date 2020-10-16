@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">sqlite_login_system</string>
+
+    <!-- Login Activity Strings-->
+    <string name="prompt_loginUserName"> Enter User Name</string>
+    <string name="prompt_loginPassword"> Enter password</string>
+    <string name="loginButton">Login</string>
+    <string name="forgottenPasswordButton">Forgot password?</string>
+    <string name="loginCreateButton">Create Account</string>
+    <string name="userListButton">Look All Users</string>
+
+    <!-- Login Button Mistake Alert Strings-->
+    <string name="lpErrorDoneMessage">Wrong Password!</string>
+    <string name="lpErrorDoneButton">Close</string>
+
+    <!-- Create account strings-->
+    <string name="enterusertext">Enter user name:</string>
+    <string name="enteruserpasstext">Enter user password:</string>
+    <string name="enteruseremailtext">Enter your email:</string>
+    <string name="enterluckynumbertext">Enter your lucky number:</string>
+    <string name="cuButton">Create</string>
+
+    <!-- Create account alert strings-->
+    <string name="caAlertTitle">Missing Information</string>
+    <string name="caAlertMessage">Name and password must entered..</string>
+    <string name="caAlertButton">Cancel</string>
+    <string name="caAlertMessageTwo">If you forgot your password, you can
+                                        create new password with email and lucky number.</string>
+    <string name="caDone">Congratulations!</string>
+    <string name="caDoneMessage">User is created..</string>
+    <string name="caDoneButton">Start use</string>
+    <string name="caErrorDone">Oooops!</string>
+    <string name="caErrorDoneMessage">User is already created..</string>
+    <string name="caErrorDoneButton">Close</string>
+
+    <!-- Forgotten Password strings-->
+    <string name="passUserText">Enter user name:</string>
+    <string name="passUserEmailText">Enter user email:</string>
+    <string name="passUserLuckyNumberText">Enter your lucky number:</string>
+    <string name="fpButton">Take password.</string>
+    <string name="fpErrorDoneMessage">You entered wrong information. I can not give password.</string>
+    <string name="fpErrorDoneButton">Close</string>
+
+    <!-- User List View strings-->
+    <string name="uLVNameLogin">Enter user name:</string>
+    <string name="uLVPassLogin">Enter user password:</string>
+    <string name="uLVDeleteButton">Delete User</string>
+    <string name="uLVDeleteDoneMessage">User deleted.</string>
+    <string name="uLVDeleteDoneMessageButton">Close</string>
+</resources>
